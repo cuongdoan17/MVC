@@ -1,0 +1,16 @@
+{
+    "name": "mystic/mvc",
+    "description": "MVC",
+    "authors": [
+        {
+            "name": "cuongdoan17",
+            "email": "cuongdoan17@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AHT\\": ""
+        }
+    }
+}
