@@ -5,7 +5,7 @@ use AHT\Core\Controller;
 use AHT\Models\TaskModel;
 use AHT\Models\TaskRepository;
 
-class tasksController extends Controller
+class TasksController extends Controller
 {
     function index()
     { 
